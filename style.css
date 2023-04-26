@@ -1,0 +1,418 @@
+body{
+    width:100%;
+    margin:0;
+    font-family: supergroup_std, Arial, sans-serif;
+    overflow-x: hidden;
+}
+.header-section{
+    width:100%;
+    padding: 27px 18px 21px 40px;
+    background: #fff;
+    height: 100px;
+    z-index: 1;
+    position: fixed;
+}
+.nav-section{
+   width: 100%;
+    background-color:#fff;
+    height: 55px;
+    margin: 0;
+    margin-left: -40px;
+    margin-top: 42px;
+}
+.header-search-icon{
+    max-width: 24px;
+    cursor: pointer;
+    color: #000;
+    margin-left: 90px;
+    margin-top: 17px;
+}
+.header-logo-section{
+    max-width: 100%;
+    max-height: 100%;
+    width: 223px;
+    margin-left: 450px;
+}
+.header-avatar-section{
+    height: 22px;
+    width: 22px;
+    color: #101010;
+    margin-left: 334px;
+    cursor: pointer;
+}
+.header-heart-section{
+    height: 20px;
+    width: 22px;
+    color: #101010;
+    margin-left: 60px;
+    cursor: pointer;
+}
+.header-AddCart-section{
+    height: 25px;
+    width: 20px;
+    color: #101010;
+    margin-left: 60px;
+    cursor: pointer;
+}
+.header-menu-section{
+    top: 94px;
+    position: absolute;
+    height: 20px;
+    width: 30px;
+    background-size: contain;
+    left: 36px;
+}
+.container{
+    width:100%;
+}
+.first-body-banner-section{
+    width:100%;
+    margin-top: -38px;
+}
+.img-banner{
+    height: 170px;
+    margin-top:155px;
+}
+.Banner-first-text{
+    letter-spacing: -0.09rem;
+    color: #fff;
+    margin-left: -10px;
+    margin-top: -172px;
+    font-size: 46px;
+    font-family: supergroup_heavy, Arial, Lucida Grande, sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+.shopMen-box{
+    width: 170px;
+    height: 35px;
+    background-color: #101010;
+    position: relative;
+    margin-left: 492px;
+    margin-top: -30px;
+}
+.shopMen-text{
+    font-family: supergroup_med, Arial, Lucida Grande, sans-serif;
+    font-size: .8rem;
+    line-height: 1em;
+    text-align: center;
+    text-decoration: inherit;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    color: #fff;
+    border: 0 solid black;
+    border-radius: 0;
+    padding:13px;
+}
+.shopWoMen-box{
+    width: 170px;
+    height: 35px;
+    background-color: #101010;
+    position: relative;
+    margin-left: 682px;
+    float: revert;
+    margin-top: -48px;
+}
+.shopWoMen-text{
+    font-family: supergroup_med, Arial, Lucida Grande, sans-serif;
+    font-size: .8rem;
+    line-height: 1em;
+    text-align: center;
+    text-decoration: inherit;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    color: #fff;
+    border: 0 solid black;
+    border-radius: 0;
+    padding:13px;
+}
+.banner-text2{
+    text-align: center;
+    font-size: 13px;
+    color: #fff;
+}
+.banner-text3{
+    text-align: center;
+    font-size: 13px;
+    color: #fff;
+    margin-top: -26px;
+}
+
+
+.second-body-img{
+    width:1351px;
+    margin-top:33px;
+}
+.second-body-box1{
+    width: 200px;
+    height: 45px;
+    background-color: #fff;
+    margin-left: 466px;
+    margin-top: -204px;
+    position: relative;
+}
+.second-body-text1{
+    font-family: supergroup_med, Arial, Lucida Grande, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+      line-height: 44px;
+}
+.second-body-box2{
+   width: 200px;
+    height: 45px;
+    background-color: #fff;
+    margin-left: 679px;
+    margin-top: -60px;
+    position: relative;
+}
+.second-body-text2{
+    font-family: supergroup_med, Arial, Lucida Grande, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+      line-height: 44px;
+}
+
+
+.Third-body-section{
+    width: 100%;
+    height: 680px;
+    background-color:#fff;
+    display: flex;
+}
+.SweaterImg{
+    width: 210px;
+    margin-left: 15px;
+    margin-top: 173px;
+}
+.Sweater-text{
+    font-weight: 600;
+    font-size: 17px;
+    margin-left: -33px;
+    color: #444;
+    text-align: center;
+}
+.Sweater-button1{
+       width: 195px;
+    height: 34px;
+    margin-left: 21px;
+    font-size: 13px;
+    background: #e97a1e;
+    color: #ffffff;
+    border: 0;
+     margin-top: 6px;
+}
+.Sweater-button2{
+    width: 195px;
+    height: 34px;
+    margin-left: 21px;
+    font-size: 13px;
+    background: #e97a1e;
+    color: #ffffff;
+    border: 0;
+    margin-top:10px;
+}
+.Third-body-image-secton{
+    width:20%;
+      margin-right: -48px;
+}
+
+.fourth-body-blackScreen{
+  width: 799px;
+    height: 600px;
+    background-color: #000;
+    margin-left: 15px;
+    margin-top: 17px;
+}
+.fourth-body-mainText1{
+    font-size: 68px;
+    color: #fff;
+    letter-spacing: -0.04em;
+    margin-left: 131px;
+    line-height: 436px;
+    font-family: supergroup_heavy, Arial, Lucida Grande, sans-serif;
+    font-weight: 800;
+}
+.fourth-body-maintext2{
+    font-size: 68px;
+    color:#fff;
+    letter-spacing: -0.04em;
+    margin-left: 195px;
+    line-height: 397px;
+    font-family: supergroup_heavy, Arial, Lucida Grande, sans-serif;
+    font-weight: 800;
+    position: relative;
+    top: -348px;
+}
+.fourth-body-maintext3{
+  font-size: 68px;
+    color:#fff;
+    letter-spacing: -0.04em;
+    margin-left: 147px;
+    line-height: 372px;
+    font-family: supergroup_heavy, Arial, Lucida Grande, sans-serif;
+    font-weight: 800;
+    position: relative;
+    top: -662px;
+}
+.fourth-body-main-text4{
+    color: #fff;
+}
+.fouth-body-image{
+    margin-left: 761px;
+    margin-top: -685px;
+    position: relative;
+    top: -669px;
+    width: 586px;
+}
+.fourth-body-maintext4{
+  position: relative;
+    top: -775px;
+    color: white;
+    margin-left: 275px;
+}
+.fourth-body-box{
+    width: 200px;
+    height: 45px;
+    background-color: #fff;
+    margin-left: 296px;
+    margin-top: -108px;
+    position: relative;
+}
+.fourth-body-box-text{
+     font-family: supergroup_med, Arial, Lucida Grande, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+      line-height: 44px;
+}
+
+
+.fifth-image{
+    width: 1333px;
+    margin-left: 16px;
+    margin-top: 55px;
+}
+.fifth-body-box1{
+    width: 200px;
+    height: 45px;
+    background-color: #fff;
+    margin-left: 466px;
+    margin-top: -189px;
+    position: relative;
+}
+.fifth-body-text1{
+    font-family: supergroup_med, Arial, Lucida Grande, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+      line-height: 44px;
+}
+
+.fifth-body-box2{
+    width: 200px;
+    height: 45px;
+    background-color: #fff;
+    margin-left: 697px;
+    margin-top: -60px;
+    position: relative;
+}
+.fifth-body-text2{
+    font-family: supergroup_med, Arial, Lucida Grande, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+      line-height: 44px;
+}
+.sixthe-image1{
+    margin-top: 138px;
+    width: 662px;
+    margin-left: 16px;
+}
+.sixth-image2{
+    margin-top: -169px;
+    width: 662px;
+    margin-left: 16px;
+    float: right;
+}
+.sixth-body-box1{
+     width: 200px;
+    height: 45px;
+    background-color: #fff;
+    margin-left: 363px;
+    margin-top: -189px;
+    position: relative;
+}
+.sixth-body-text1{
+     font-family: supergroup_med, Arial, Lucida Grande, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+      line-height: 44px;
+}
+.sixth-body-box2{
+    width: 200px;
+    height: 45px;
+    background-color: #fff;
+    margin-left: 741px;
+    margin-top: -62px;
+    position: relative;
+}
+.sixth-body-text2{
+      font-family: supergroup_med, Arial, Lucida Grande, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+      line-height: 44px;
+}
+
+
+.seventh-image{
+    width: 1331px;
+    margin-left: 17px;
+    margin-top: 17px;
+}
+.footer-black-section{
+    width: 1356px;
+    height: 207px;
+    background: #000;
+}
+.footer-text1{
+    font-family: supergroup_bold,Arial,"Lucida Grande",sans-serif;
+    color: #fff;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-left: 23px;
+    position: relative;
+    top: 21px;
+}
+.footer-text2{
+    font-family: supergroup_bold,Arial,"Lucida Grande",sans-serif;
+    color: #fff;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-left: 23px;
+    position: relative;
+    top: 21px;
+}
+.text-row{
+    width:100%;
+    display:flex;
+    margin-left: 45px;
+    
+}
+.footer-icon1{
+    float: right;
+    margin-right: 116px;
+    margin-top: -148px;
+    width: 50px;
+}
+.footer-icon2{
+    float: right;
+    margin-right: 58px;
+    margin-top: -148px;
+    width: 50px;
+}
